@@ -25,7 +25,7 @@ author:
   avatar           : "IMG_9145.HEIC"
   name             : "Ian Shillito"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Logician formalising in Rocq"
   location         : "Birmingham, UK"
   employer         : "University of Birmingham"
   uri              : # URL
@@ -91,15 +91,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
