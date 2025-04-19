@@ -7,5 +7,5 @@ excerpt: 'We present a labelled sequent calculus for a trimodal epistemic logic 
 date: 2020-03-11
 venue: 'Journal of Logic and Computation'
 paperurl: 'https://doi.org/10.1093/logcom/exaa021'
-citation: 'Shillito, Ian. (2020). &quot;A multi-labelled sequent calculus for Topo-Logic.&quot; <i>Journal of Logic and Computation1</i>. 1(1).'
+citation: 'Shillito, Ian. (2020). &quot;A multi-labelled sequent calculus for Topo-Logic.&quot; <i>Journal of Logic and Computation</i>. 30 (2).'
 ---
