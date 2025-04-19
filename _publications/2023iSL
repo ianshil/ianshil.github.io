@@ -1,0 +1,18 @@
+---
+title: "A New Calculus for Intuitionistic Strong Löb Logic: Strong Termination and Cut-Elimination, Formalised"
+collection: publications
+category: conferences
+permalink: /publication/2023iSL
+excerpt: 'We provide a new sequent calculus that enjoys syntactic cut-elimination and 
+strongly terminating backward proof search for the intuitionistic Strong Löb logic, an 
+intuitionistic modal logic with a provability interpretation. A novel measure on 
+sequents is used to prove both the termination of the naive backward proof search strategy, 
+and the admissibility of cut in a syntactic and direct way, leading to a straightforward 
+cut-elimination procedure. All proofs have been formalised in the interactive theorem prover Coq.'
+date: 2023-09-14
+venue: 'TABLEAUX 2023'
+paperurl: 'https://doi.org/10.1007/978-3-031-43513-3_5'
+citation: 'Shillito, Ian, van der Giessen, Iris, Goré, Rajeev and Iemhoff, Rosalie. (2023). 
+&quot;A New Calculus for Intuitionistic Strong Löb Logic: Strong Termination and Cut-Elimination, Formalised&quot; 
+<i>TABLEAUX 2023</i>.'
+---
