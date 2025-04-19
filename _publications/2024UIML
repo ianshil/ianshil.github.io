@@ -1,0 +1,19 @@
+
+---
+title: "Mechanised Uniform Interpolation for Modal Logics K, GL, and iSL"
+collection: publications
+category: conferences
+permalink: /publication/2024UIML
+excerpt: 'The uniform interpolation property in a given logic can be understood as the 
+definability of propositional quantifiers. We mechanise the computation of these 
+quantifiers and prove correctness in the Coq proof assistant for three modal logics, 
+namely: (1) the modal logic K, for which a pen-and-paper proof exists; (2) Gödel-Löb logic GL, 
+for which our formalisation clarifies an important point in an existing, but incomplete, 
+sequent-style proof; and (3) intuitionistic strong Löb logic iSL, for which this is the first 
+proof-theoretic construction of uniform interpolants. Our work also yields verified programs 
+that allow one to compute the propositional quantifiers on any formula in this logic.'
+date: 2024-07-02
+venue: 'IJCAR 2024'
+paperurl: 'https://doi.org/10.1007/978-3-031-63501-4_3'
+citation: 'Férée, Hugo, van der Giessen, Iris, van Gool, Sam and Shillito, Ian. (2024). &quot;Mechanised Uniform Interpolation for Modal Logics K, GL, and iSL&quot; <i>IJCAR 2024</i>.'
+---
