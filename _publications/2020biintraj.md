@@ -19,6 +19,6 @@ and meta-level properties, and that they are, respectively, sound and strongly c
 date: 2020-09-01
 venue: 'Advances in Modal Logic 2020'
 paperurl: 'http://www.aiml.net/volumes/volume13/Gore-Shillito.pdf'
-citation: 'Goré, Rajeev and Shillito, Ian. (2020). &quot;Bi-Intuitionistic Logics: A New Instance of an Old Problem.&quot; <i>Advances in Modal Logic 2020/i>.'
+citation: 'Goré, Rajeev and Shillito, Ian. (2020). &quot;Bi-Intuitionistic Logics: A New Instance of an Old Problem.&quot; <i>Advances in Modal Logic 2020</i>.'
 ---
 
