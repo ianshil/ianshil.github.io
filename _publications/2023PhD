@@ -1,0 +1,50 @@
+---
+title: "New Foundations for the Proof Theory of Bi-Intuitionistic and Provability Logics Mechanized in Coq"
+collection: publications
+category: books
+permalink: /publication/2023PhD
+excerpt: 'We contribute to the shift towards logic as a fully formalised science by formalising in
+the interactive theorem prover Coq both new and known results. Our contribution is
+threefold.
+
+First, we define pen-and-paper general notions required in our dissertation: propo-
+sitional and first-order syntax, axiomatic calculus, sequent calculus, Kripke semantics,
+soundness and completeness results. Furthermore, we instantiate these notions in modal
+logic, both in pen-and-paper and in Coq. Consequently, we constitute a readily available
+and usable Coq library containing foundational elements of the study of modal logic, which
+can thus serve as a basis for the formalisation of further works in non-classical logics.
+
+Second, we exhibit and rectify a mistake that has gone unnoticed for almost fifty
+years in the foundations of propositional and first-order bi-intuitionistic logic. We show
+that both in the propositional and first-order case, what was conceived of as a unique
+bi-intuitionistic logic is in fact two distinct logics. We trace these confusions back to
+a fundamental problem in the axiomatic proof theory of propositional and first-order
+bi-intuitionistic logic: traditional Hilbert calculi are not designed to treat logics as conse-
+quence relations. They lead to an ambiguous notion of deduction from assumptions that
+can cause us to conflate distinct rules and thus distinct logics. More precisely, we show
+that the bi-intuitionistic rule (DN) is ambiguous in a traditional context and splits into two
+distinct rules in the context of generalized Hilbert calculi. As a consequence, we obtain two
+generalized Hilbert calculi in the propositional (wBIH and sBIH) and first-order (FOwBIH
+and FOsBIH) case, for bi-intuitionistic logic that diﬀer only in the disambiguated version
+of the (DN) rule they incorporate. Unsurprisingly, these systems capture two distinct
+propositional logics (wBIL and sBIL) and first-order logics (FOwBIL and FOsBIL), which
+have been conflated in the literature.
+
+Third, we obtain cut-elimination results for the sequent calculi GLS and GL4ip, which
+are sequent calculi for, respectively, the classical modal provability logic GLL and the in-
+tuitionistic modal provability logic iGLL. These results involve a novel proof technique
+for the admissibility of additive-cut called the “mhd proof technique”, which relies on the
+fact that terminating backward proof-search allows us to attribute a “maximal height of
+derivations” to each sequent. So, for each of the calculi GLS and GL4ip, we define a back-
+ward proof-search procedure for it and develop a thorough termination argument using a
+local measure on sequents and a well-founded relations along which this measure decreases
+upwards in the proof-search. Then, we directly prove the admissibility of additive-cut for
+both calculi using the mhd proof technique. We use this number, the mhd of a sequent, as
+an induction measure in arguments involving local and syntactic transformations, allowing
+us to exhibit and hence extract from our Coq formalisation Haskell programs constituting
+cut-elimination procedures.'
+date: 2023-06-09
+venue: Australian University
+paperurl: 'https://www.proquest.com/docview/2812065824?pq-origsite=gscholar&fromopenview=true'
+citation: 'Shillito, Ian. (2023). &quot;New Foundations for the Proof Theory of Bi-Intuitionistic and Provability Logics Mechanized in Coq&quot; <i>PhD thesis, Australian National University</i>.'
+---
